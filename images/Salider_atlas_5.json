@@ -1,0 +1,43 @@
+﻿{"frames": {
+
+"CachedBmp_3":
+{
+	"frame": {"x":0,"y":1288,"w":1361,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1361,"h":391},
+	"sourceSize": {"w":1361,"h":391}
+},
+"CachedBmp_4":
+{
+	"frame": {"x":0,"y":895,"w":1361,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1361,"h":391},
+	"sourceSize": {"w":1361,"h":391}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":0,"y":502,"w":1361,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1361,"h":391},
+	"sourceSize": {"w":1361,"h":391}
+},
+"turismo5":
+{
+	"frame": {"x":0,"y":0,"w":1100,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1100,"h":500},
+	"sourceSize": {"w":1100,"h":500}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.2.168",
+	"image": "Salider_atlas_5.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

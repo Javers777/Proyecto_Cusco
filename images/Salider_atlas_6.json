@@ -1,0 +1,83 @@
+﻿{"frames": {
+
+"CachedBmp_1":
+{
+	"frame": {"x":0,"y":393,"w":1361,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1361,"h":391},
+	"sourceSize": {"w":1361,"h":391}
+},
+"CachedBmp_11":
+{
+	"frame": {"x":1363,"y":574,"w":58,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":104},
+	"sourceSize": {"w":58,"h":104}
+},
+"CachedBmp_12":
+{
+	"frame": {"x":1363,"y":0,"w":179,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":179},
+	"sourceSize": {"w":179,"h":179}
+},
+"CachedBmp_13":
+{
+	"frame": {"x":1363,"y":468,"w":58,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":104},
+	"sourceSize": {"w":58,"h":104}
+},
+"CachedBmp_14":
+{
+	"frame": {"x":1363,"y":181,"w":179,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":179},
+	"sourceSize": {"w":179,"h":179}
+},
+"CachedBmp_15":
+{
+	"frame": {"x":1363,"y":362,"w":58,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":104},
+	"sourceSize": {"w":58,"h":104}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":0,"y":0,"w":1361,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1361,"h":391},
+	"sourceSize": {"w":1361,"h":391}
+},
+"CachedBmp_7":
+{
+	"frame": {"x":1423,"y":362,"w":58,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":104},
+	"sourceSize": {"w":58,"h":104}
+},
+"CachedBmp_9":
+{
+	"frame": {"x":1363,"y":680,"w":58,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":104},
+	"sourceSize": {"w":58,"h":104}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.2.168",
+	"image": "Salider_atlas_6.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

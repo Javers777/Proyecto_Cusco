@@ -1,0 +1,43 @@
+﻿{"frames": {
+
+"turismo1":
+{
+	"frame": {"x":0,"y":0,"w":1100,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1100,"h":500},
+	"sourceSize": {"w":1100,"h":500}
+},
+"turismo2":
+{
+	"frame": {"x":0,"y":502,"w":1100,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1100,"h":500},
+	"sourceSize": {"w":1100,"h":500}
+},
+"turismo3":
+{
+	"frame": {"x":0,"y":1004,"w":1100,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1100,"h":500},
+	"sourceSize": {"w":1100,"h":500}
+},
+"turismo4":
+{
+	"frame": {"x":0,"y":1506,"w":1100,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1100,"h":500},
+	"sourceSize": {"w":1100,"h":500}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.2.168",
+	"image": "Salider_atlas_4.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
